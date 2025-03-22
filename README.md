@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Deep learning, Frameworks**
 
-- 👯 I’m looking to collaborate on **Deep learning persons**
+- 👯 I’m looking to collaborate on **person with same moto as me on ML and DL**
 
-- 🤝 I’m looking for help with **Image-based music recommendations**
+- 🤝 I’m looking for help with **Image-based music recommendations project**
 
 - 📫 How to reach me **nivas1747@gmail.com**
 
