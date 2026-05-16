@@ -79,12 +79,5 @@ Artificial Intelligence & Data Science Graduate passionate about building real-w
 
 ---
 
-## 📫 Connect With Me
-
-* LinkedIn
-* GitHub
-* Email: [nivasm0407@gmail.com](mailto:nivasm0407@gmail.com)
-
----
 
 > "Building systems that turn ideas into real-world intelligence."
