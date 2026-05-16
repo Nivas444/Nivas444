@@ -1,27 +1,90 @@
-<h1 align="center">Hi 👋, I'm Nivas M</h1>
-<h3 align="center">A passionate Machine Learning student</h3>
+# Hi, I'm Nivas 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nivas444&label=Profile%20views&color=0e75b6&style=flat" alt="nivas444" /> </p>
+Artificial Intelligence & Data Science Graduate passionate about building real-world AI systems, edge AI applications, and intelligent automation platforms.
 
-- 🔭 I’m currently working on **Machine Learning and Deep learning**
+---
 
-- 🌱 I’m currently learning **Deep learning, Frameworks**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on **person with same moto as me on ML and DL**
+* 🔭 Working on AI + IoT based automation systems
+* 🤖 Interested in Computer Vision, Edge AI, Deep Learning, and SaaS platforms
+* 🧠 Experienced with YOLOv8, TensorFlow, PyTorch, OpenCV, FastAPI, and Raspberry Pi
+* ⚡ Building intelligent systems for smart waste management and automation
+* 🌱 Exploring scalable AI deployment and edge-device inference
 
-- 🤝 I’m looking for help with **Image-based music recommendations project**
+---
 
-- 📫 How to reach me **nivas1747@gmail.com**
+## 🛠 Tech Stack
 
-- ⚡ Fun fact **I think I'm serious about all silly things..lol..**
+### Languages
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nivas m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nivas m" height="30" width="40" /></a>
-<a href="https://instagram.com/__nick444__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__nick444__" height="30" width="40" /></a>
-</p>
+* Python
+* SQL
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### AI / Machine Learning
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nivas444&show_icons=true&locale=en&layout=compact" alt="nivas444" /></p>
+* TensorFlow
+* PyTorch
+* Scikit-learn
+* OpenCV
+* YOLOv8
+* CNN
+* Transformers
+
+### Backend & Tools
+
+* FastAPI
+* Flask
+* Streamlit
+* REST APIs
+* Git & GitHub
+
+### Edge AI & IoT
+
+* Raspberry Pi
+* NVIDIA Jetson Orin Nano
+* Computer Vision
+* IoT Automation
+
+---
+
+## 💡 Featured Projects
+
+### AI-Powered Automated Waste Segregation Bin
+
+* Built an intelligent smart bin system capable of automatically classifying and segregating waste using computer vision and edge AI.
+* Fine-tuned deep learning models for deployment on Raspberry Pi and Jetson devices.
+
+### Xam.AI – AI Powered Study Assistant
+
+* Developed an AI-driven learning assistant for smart study workflows, question assistance, and educational automation.
+
+### Decision-Driven Customer Retention System
+
+* Built an ML microservice for customer churn prediction and financial retention analysis using FastAPI and Scikit-learn.
+
+### Transformer Architecture From Scratch
+
+* Implemented the Transformer architecture from scratch using PyTorch without relying on high-level abstraction libraries.
+
+---
+
+## 📈 Currently Exploring
+
+* Edge AI Optimization
+* Real-Time Computer Vision
+* AI Deployment Pipelines
+* Intelligent Automation Systems
+* AI + IoT Infrastructure
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn
+* GitHub
+* Email: [nivasm0407@gmail.com](mailto:nivasm0407@gmail.com)
+
+---
+
+> "Building systems that turn ideas into real-world intelligence."
