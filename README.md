@@ -8,8 +8,7 @@
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6B6B?style=flat&logo=ai&logoColor=white" alt="AI" />
   <img src="https://img.shields.io/badge/Edge%20AI-00C4B4?style=flat&logo=nvidia&logoColor=white" alt="Edge AI" />
   <img src="https://img.shields.io/badge/Computer%20Vision-4285F4?style=flat&logo=opencv&logoColor=white" alt="CV" />
-  
-  <br><br>
+  <br>
 </div>
 
 ---
