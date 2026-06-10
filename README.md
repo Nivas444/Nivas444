@@ -90,8 +90,7 @@ Implemented Transformer model from scratch using PyTorch to deepen understanding
 
 <div align="center">
 
-### Let's Connect
-**Portfolio** → [Add your portfolio link here]  
+### Let's Connect  
 **LinkedIn** → [https://www.linkedin.com/in/nivas040205](https://www.linkedin.com/in/nivas040205)  
 **Email** → nivasm0402@gmail.com
 
