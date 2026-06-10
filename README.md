@@ -21,9 +21,9 @@ Artificial Intelligence & Data Science graduate with hands-on experience in deve
 
 Currently working as an AI Engineer in a startup, building AI + IoT solutions. Passionate about taking models from experimentation to production on edge devices.
 
-- Currently building intelligent automation systems  
-- Open to freelance opportunities in Computer Vision, Edge AI, and ML backend development  
-- Always learning scalable deployment and optimization techniques
+Currently building intelligent automation systems  
+Open to freelance opportunities in Computer Vision, Edge AI, and ML backend development  
+Always learning scalable deployment and optimization techniques
 
 </div>
 
@@ -80,9 +80,9 @@ Implemented Transformer model from scratch using PyTorch to deepen understanding
 <div align="center">
 
 ### Experience
-- **AI Engineer** — Current Startup (2026–Present)  
-- **AI Engineer Intern** — SortyX Ventures, Chennai (Mar–May 2026)  
-- **Machine Learning Intern** — TechPower Solutions, Chennai (Jun 2025)
+**AI Engineer** — Current Startup (2026–Present)  
+**AI Engineer Intern** — SortyX Ventures, Chennai (Mar–May 2026)  
+**Machine Learning Intern** — TechPower Solutions, Chennai (Jun 2025)
 
 </div>
 
@@ -91,9 +91,9 @@ Implemented Transformer model from scratch using PyTorch to deepen understanding
 <div align="center">
 
 ### Let's Connect
-- **Portfolio** → [Add your portfolio link here]  
-- **LinkedIn** → [https://www.linkedin.com/in/nivas040205](https://www.linkedin.com/in/nivas040205)  
-- **Email** → nivasm0402@gmail.com
+**Portfolio** → [Add your portfolio link here]  
+**LinkedIn** → [https://www.linkedin.com/in/nivas040205](https://www.linkedin.com/in/nivas040205)  
+**Email** → nivasm0402@gmail.com
 
 ---
 
