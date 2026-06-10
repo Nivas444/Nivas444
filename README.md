@@ -9,20 +9,27 @@
   <img src="https://img.shields.io/badge/Edge%20AI-00C4B4?style=flat&logo=nvidia&logoColor=white" alt="Edge AI" />
   <img src="https://img.shields.io/badge/Computer%20Vision-4285F4?style=flat&logo=opencv&logoColor=white" alt="CV" />
   
+  <br><br>
 </div>
 
 ---
+
+<div align="center">
 
 ### About Me
 Artificial Intelligence & Data Science graduate with hands-on experience in developing and deploying real-time Computer Vision and Edge AI systems. 
 
 Currently working as an AI Engineer in a startup, building AI + IoT solutions. Passionate about taking models from experimentation to production on edge devices.
 
-- Currently building intelligent automation systems
-- Open to freelance opportunities in Computer Vision, Edge AI, and ML backend development
+- Currently building intelligent automation systems  
+- Open to freelance opportunities in Computer Vision, Edge AI, and ML backend development  
 - Always learning scalable deployment and optimization techniques
 
+</div>
+
 ---
+
+<div align="center">
 
 ### Tech Stack
 
@@ -46,7 +53,11 @@ Currently working as an AI Engineer in a startup, building AI + IoT solutions. P
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
 
+</div>
+
 ---
+
+<div align="center">
 
 ### Featured Projects
 
@@ -62,24 +73,32 @@ Developed a production-ready ML microservice for customer churn prediction and r
 **Transformer Architecture From Scratch**  
 Implemented Transformer model from scratch using PyTorch to deepen understanding of modern architectures.
 
+</div>
+
 ---
+
+<div align="center">
 
 ### Experience
 - **AI Engineer** — Current Startup (2026–Present)  
 - **AI Engineer Intern** — SortyX Ventures, Chennai (Mar–May 2026)  
 - **Machine Learning Intern** — TechPower Solutions, Chennai (Jun 2025)
 
+</div>
+
 ---
 
+<div align="center">
+
 ### Let's Connect
-- **Portfolio** → [Add your portfolio link here]
-- **LinkedIn** → [https://www.linkedin.com/in/nivas040205](https://www.linkedin.com/in/nivas040205)
+- **Portfolio** → [Add your portfolio link here]  
+- **LinkedIn** → [https://www.linkedin.com/in/nivas040205](https://www.linkedin.com/in/nivas040205)  
 - **Email** → nivasm0402@gmail.com
 
 ---
 
 "Turning cutting-edge AI research into practical, deployable solutions."
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=flat&logo=handshake&logoColor=white" alt="Open to Work" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=flat&logo=handshake&logoColor=white" alt="Open to Work" />
+
 </div>
